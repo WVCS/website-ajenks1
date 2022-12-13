@@ -1,3 +1,33 @@
 body {
-
+  background-color:#48cae4;
+}
+h2{
+  color: #7400b8;
+    font-size: 300%;
+  letter-spacing: 2px;
+}
+p{
+  color: white; 
+  font-size: 150%; 
+}
+img{
+  border: dotted white 4px
+}
+iframe{
+  border: dotted white
+}
+ul{
+  list-style-type: none; 
+  position: fixed; 
+  width: 100%;
+}
+li{
+  float: left; 
+}
+li a{
+  padding: 17px;
+  text-decoration-line: none; 
+}
+li a:hover{
+  color:white; 
 }
