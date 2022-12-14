@@ -1,0 +1,22 @@
+body{
+  background-color: #cdb4db;
+}
+h2{
+  color: #7209b7;
+    font-size: 300%;
+  letter-spacing: 2px;
+}
+p{
+  color: white; 
+  font-size: 150%; 
+}
+li{
+  float: left; 
+}
+li a: hover
+{
+  color: white;
+}
+ul{
+  position: fixed;
+}
