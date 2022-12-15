@@ -12,6 +12,8 @@ p{
 }
 img{
   border: dotted white 4px
+    height: 75%;
+  width: 75%; 
 }
 iframe{
   border: dotted white
